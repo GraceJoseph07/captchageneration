@@ -3,4 +3,4 @@
 //#include<dos.h>
 //#include<graphics.h>
 
-int generateCaptcha()
+int generateCaptcha();
