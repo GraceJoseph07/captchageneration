@@ -6,7 +6,7 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-src/function.c\
+src/operations.c\
 
 # All test source files
 TEST_SRC = src/function.c\
