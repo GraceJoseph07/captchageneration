@@ -2,4 +2,5 @@
 int main()
 {
  generateCaptcha();
+ return 0;
 }
