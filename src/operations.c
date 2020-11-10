@@ -1,3 +1,4 @@
+#include<header.h>
 int generateCaptcha(){
 int i = 0, key, num, midx, gd = DETECT, gm;
 char a[10];
